@@ -1,0 +1,86 @@
+.container1{
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 20%;
+    right: 15%;
+    border-radius: 10px;
+    box-sizing: border-box;
+   border: 1px solid gray;
+   box-shadow: 3px 3px 5px 5px rgb(199 195 195);
+    
+}
+.email{
+    width: 350px;
+    height: 50px;
+    margin: 10px 0px 10px 20px;
+    border-radius: 10px;
+}
+.password{
+    width: 350px;
+    height: 50px;
+    margin:5px 0px 10px 20px;
+    border-radius: 10px;
+
+}
+.f-p{
+    text-align: center;
+}
+.submit{
+    width: 350px;
+    height: 50px;
+    margin:5px 0px 10px 20px;
+    border-radius: 10px;
+    color:white;
+    background-color: blue;
+}
+.container2{
+    position: absolute;
+    bottom: 12%;
+    right: 19%;
+
+}
+.create{
+    width: 200px;
+    height: 50px;
+    margin:5px 0px 10px 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+    position: absolute;
+    left: 21%;
+    bottom: 3%;
+}
+.content{
+    
+    font-family: sans-serif;
+    color: blue;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: xx-large;
+
+}
+.card{
+    font-size: x-large;
+    color:black;
+    position: absolute;
+    left: 10%;
+    bottom: 38%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+hr{
+    margin: 0 10px 0 10px;
+}
+
+
+::placeholder{
+    padding: 10px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
